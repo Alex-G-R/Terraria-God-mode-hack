@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Static Health pointer"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"THREADSTACK0"-00000980</Address>
+      <Offsets>
+        <Offset>408</Offset>
+        <Offset>70</Offset>
+        <Offset>0</Offset>
+        <Offset>0</Offset>
+        <Offset>2E8</Offset>
+        <Offset>4</Offset>
+        <Offset>32C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"No description"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>3C91A6E4</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
